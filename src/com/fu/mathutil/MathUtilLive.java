@@ -17,6 +17,7 @@ public class MathUtilLive {
     public static void main(String[] args) {
         System.out.println(MathUtil.giaiThua(7));
         System.out.println(MathUtil.giaiThua(3));
+        System.out.println("solo ys k?");
     }
     
 }
